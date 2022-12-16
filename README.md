@@ -7,6 +7,7 @@ Designed for use with NIKKE:Goddess of Victory's Spine skeletons
 NodeJS LTS  
 
 # Usage  
+Clone repository directly, then in command line:  
 ```
 node ./index.js <path_to_skel_file>
 
