@@ -3,6 +3,8 @@ Convert skel files of 4.0.47/62 to json to be used with 3rd-party editors
 
 Designed for use with NIKKE:Goddess of Victory's Spine skeletons  
 
+json2skel.... coming soon? 🥲
+
 # Requirements  
 NodeJS LTS  
 
